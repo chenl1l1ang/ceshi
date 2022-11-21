@@ -35,3 +35,13 @@ http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
+#EXTINF:-1,[加拿大]Players TV (1080p)
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1,[加拿大]QVTV (720p)
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1,[加拿大]5AAB TV (720p)
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1,[加拿大]Sardari TV (1080p)
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1,[加拿大]Pardesi TV
+http://stream.pardesitv.online/pardesi/index.m3u8
