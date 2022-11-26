@@ -1,5 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
-https://pull-flv-spe-l26.douyincdn.com/fantasy/stream-688478304447234742_hd.flv?_neptune_token=MIGYBAxqlYibViryUXJ3VEsEdsHOXLk7Bh6mQFwHiACOFzBFsMMC5t_g4dScBOBOKbDM1j71p5IPxvDpIZR_8GSJSH72KzWeLYQrOXV2txBYa2nRCBXqbJ9_ksdWCs-Bk7VgZ0gk1pSdimt6mZbOLRB0kTgt6to-cHj3cmsKILhzxw53xU4pxD0EEA4MGDovypdMSufIDuWOqEE&expire=637f6e3d&sign=1e5e4a2aa51d35fb36d48b897559e123&abr_pts=-1800
+#EXTINF:-1 CCTV5
+http://yztv-wshls.homecdn.com/live/11eec.m3u8?t=1669468776&k=41a8c1a0aeb274dc5d576f780b33a5ef&wsSession=80014dfdd3281f3c78c9c720-166946877729009&wsIPSercert=a428adfa33c25d2cbb179b3ff2373b31&wsMonitor=0
