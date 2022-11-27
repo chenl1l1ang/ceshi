@@ -1,5 +1,3 @@
 #EXTM3U
-
-
-#EXTINF:-1 CCTV5
-http://yztv-wshls.homecdn.com/live/11eec.m3u8?t=1669468776&k=41a8c1a0aeb274dc5d576f780b33a5ef&wsSession=80014dfdd3281f3c78c9c720-166946877729009&wsIPSercert=a428adfa33c25d2cbb179b3ff2373b31&wsMonitor=0
+#EXTINF:-1 CCTV4
+http://39.135.138.59:18890/PLTV/88888888/224/3221225621/index.m3u8
