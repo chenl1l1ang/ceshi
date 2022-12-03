@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1,BBC
+https://pull-l3-cny.douyincdn.com/live/ca75079c875407cc44e1c1f09b29f3ed.flv
+#EXTINF:-1,八大綜藝台
+https://pull-l3-cny.douyincdn.com/live/ab4e948f14b39158231aaebf4da94dd9.flv
+#EXTINF:-1,BEIN SPORTS 1
+http://pull-l3-cny.douyincdn.com/live/9e7152c722cd7156a0266b1aabf80819.flv
+#EXTINF:-1,BEIN SPORTS 2
+http://pull-l3-cny.douyincdn.com/live/38e3e5027ac06ef8f2f37d2f47ac82bf.flv
+#EXTINF:-1,CNN
+https://pull-l3-cny.douyincdn.com/live/60b904919c039b80f907dcbde6e41f12.flv
+#EXTINF:-1,Discovery
+https://pull-l3-cny.douyincdn.com/live/f90d3a2afbb46b194ab914fa7b92f5b9.flv
+#EXTINF:-1,Discovery DMAX
+https://pull-l3-cny.douyincdn.com/live/2b0dbd2f9f995b02e9f5f69679f101a1.flv
+#EXTINF:-1,東森財經新聞
+https://pull-l3-cny.douyincdn.com/live/0dfd80172aac7fe5b7d4850ff71b1fba.flv
+#EXTINF:-1,東森電影
+https://pull-l3-cny.douyincdn.com/live/1d9448d30fdf818a40a4858f4e5a8b15.flv
+#EXTINF:-1,東森LIVE
+https://t26.iptv200.com/live/dsxw.flv?sign=1670045782-ee4cb142631f7ece28cd637c09b26494
+#EXTINF:-1,東森新聞
+https://pull-l3-cny.douyincdn.com/live/9e82b63410143bb06ff74f750c799825.flv
+#EXTINF:-1,東森洋片
+https://pull-l3-cny.douyincdn.com/live/377967397e1df5366c23a77c78d6be7f.flv
+#EXTINF:-1,ELEVEN 1
+https://t26.iptv200.com/live/tv731.flv?sign=1670045897-d9a04eb1954e75e78e366887918c1ee0
+#EXTINF:-1,ELEVEN 2
+https://t11.iptv200.com/live/tv741.flv?sign=1670045938-aa2a8c2e9c41f4a7e471ae304b1a35c3
+#EXTINF:-1,HBO
+https://pull-l3-cny.douyincdn.com/live/9e8af093deeee448e05c29d701847984.flv
+#EXTINF:-1,HBO family
+https://pull-l3-cny.douyincdn.com/live/71188e5be98d9cbfcbe5fb94ed116301.flv
+#EXTINF:-1,HBO HiTS
+https://pull-l3-cny.douyincdn.com/live/aecf225edc219908ad568722641862cd.flv
+#EXTINF:-1,ELTV生活英語台
+https://pull-l3-cny.douyincdn.com/live/5ad68a18834c6b38e0c6fee78dbf0e50.flv
+#EXTINF:-1,HBO Signature
+https://pull-l3-cny.douyincdn.com/live/6fded64e8cc5124c4bffcbb429173dad.flv
+#EXTINF:-1,華視
+https://pull-l3-cny.douyincdn.com/live/0f8e260632d959034bdefeb3b9efcc28.flv
+#EXTINF:-1,華視新聞資訊
+https://pull-l3-cny.douyincdn.com/live/578398111c5bce07284763d75fdf008f.flv
+#EXTINF:-1,寰宇新聞台
+https://pull-l3-cny.douyincdn.com/live/ce9513473c823f3963c22155d045f7d5.flv
+#EXTINF:-1,靖天電影台
+https://pull-l3-cny.douyincdn.com/live/fbba60580c97cfa31569f0e5904d62ed.flv
+#EXTINF:-1,靖天日本台
+https://pull-l3-cny.douyincdn.com/live/7b2a1e029b34621e49c65ba81c520079.flv
+#EXTINF:-1,靖天戲劇台
+https://pull-l3-cny.douyincdn.com/live/1ac321648d3e5969b0b0601f1729e8dc.flv
+#EXTINF:-1,靖天育樂台
+https://pull-l3-cny.douyincdn.com/live/8f4ff66e52ed07df29d300a1950adbf7.flv
+#EXTINF:-1,靖天綜合台
+https://pull-l3-cny.douyincdn.com/live/90f02b982a0109183b85628f7e1ac996.flv
+#EXTINF:-1,龍華電影
+https://pull-l3-cny.douyincdn.com/live/7bb3d624c7ae5e7a89a8b0346c32575a.flv
+#EXTINF:-1,龍華日韓
+https://pull-l3-cny.douyincdn.com/live/5e4115ef8dfb31187ee25c0f8d22c982.flv
+#EXTINF:-1,龍華戲劇
+https://pull-l3-cny.douyincdn.com/live/c96263eb7228b69ca90d03046bf71f8d.flv
+#EXTINF:-1,民視
+https://pull-l3-cny.douyincdn.com/live/a1011b346af953aa3ad655a72fe66c46.flv
+#EXTINF:-1,民視新聞台
+https://pull-l3-cny.douyincdn.com/live/22b88ed54f4c1aaf0a296083827f86fd.flv
+#EXTINF:-1,三立iNEWS
+https://pull-l3-cny.douyincdn.com/live/2ee237d8d3763c95184d1faa3573838a.flv
+#EXTINF:-1,三立LIVE
+https://t31.iptv200.com/live/slxw.flv?sign=1670046881-ecf295b569acee2471354f8ded76b681
+#EXTINF:-1,台視
+https://pull-l3-cny.douyincdn.com/live/2cc1fbd69e6329f1da17020f7f131872.flv
+#EXTINF:-1,台視新聞
+https://t20.iptv200.com/live/tsxw.flv?sign=1670046945-754ae38c27ec35d9c924010f951689f0
+#EXTINF:-1,TVBS
+https://t28.iptv200.com/live/tvbs.flv?sign=1670046979-09d58fe21821b0fda10151725d02081b
+#EXTINF:-1,TVBS歡樂台
+https://t8.iptv200.com/live/tv421.flv?sign=1670047012-4cb3b62652ed3092c160e69f0b503159
+#EXTINF:-1,TVBS精采台
+https://pull-l3-cny.douyincdn.com/live/380e603237624e9685f4b1df112c9803.flv
+#EXTINF:-1,TVBS新聞台
+https://pull-l3-cny.douyincdn.com/live/83927a0c9a80cf1fb5bd4532a2b12c2b.flv
+#EXTINF:-1,天映頻道
+https://pull-l3-cny.douyincdn.com/live/64cb66541e9e41153363bb4a9af22d7a.flv
+#EXTINF:-1,緯來電影
+https://pull-l3-cny.douyincdn.com/live/56444cd35518d1666dfd4cefe7a9e417.flv
+#EXTINF:-1,緯來日本
+https://pull-l3-cny.douyincdn.com/live/c0584ca712820a8f4597226dedd7f976.flv
+#EXTINF:-1,緯來體育
+https://pull-l3-cny.douyincdn.com/live/cd8b804334a5451a2ed866d0774673e6.flv
+#EXTINF:-1,緯來育樂
+https://t26.iptv200.com/live/tv701.flv?sign=1670047245-0b1a68672e15c824f55d7b7ede0775f0
+#EXTINF:-1,緯來綜合
+https://pull-l3-cny.douyincdn.com/live/029c6a07805c41a1a54418a3a88b4063.flv
+#EXTINF:-1,中視新聞
+https://t19.iptv200.com/live/zsxw.flv?sign=1670047366-a2718bbfda88e5f6ab232aedcb621e51
